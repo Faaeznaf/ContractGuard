@@ -244,12 +244,12 @@ This project is proprietary software developed by APEX Consulting LLC.
 
 ## Author
 
-**Your Name**  
+**Faaez Nafiu**  
 APEX Consulting LLC
 
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [github.com/yourusername]
+- Portfolio: [apexcloudprojects.com](https://apexcloudprojects.com/)
+- LinkedIn: [linkedin.com/in/faaeznafiu](https://www.linkedin.com/in/faaeznafiu/)
+- GitHub: [github.com/Faaeznaf](https://github.com/Faaeznaf)
 
 ---
 
