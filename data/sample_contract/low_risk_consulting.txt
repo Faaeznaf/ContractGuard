@@ -1,0 +1,426 @@
+                 CONSULTING SERVICES AGREEMENT
+
+
+This Consulting Services Agreement (the "Agreement") is entered into as 
+of the 10th day of September, 2024 (the "Effective Date"), by and between:
+
+     StartupCo, a Delaware corporation with its principal place of 
+     business at 555 Innovation Drive, Boston, MA 02101 (hereinafter 
+     referred to as "Client" or "Company"),
+
+and
+
+     John Smith Consulting LLC, a Massachusetts limited liability company 
+     with its principal place of business at 888 Main Street, Cambridge, 
+     MA 02138 (hereinafter referred to as "Consultant").
+
+Client and Consultant are collectively referred to herein as the "Parties" 
+and individually as a "Party."
+
+
+                              RECITALS
+
+WHEREAS, Client desires to engage Consultant to provide certain consulting 
+services; and
+
+WHEREAS, Consultant has expertise in business strategy, operations 
+management, and organizational development; and
+
+WHEREAS, Consultant is willing to provide such services upon the terms and 
+conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements 
+contained herein, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the Parties 
+agree as follows:
+
+
+1. CONSULTING SERVICES
+
+   1.1 Scope of Services. Consultant shall provide Client with the 
+       following consulting services (collectively, the "Services"):
+
+       (a) Strategic Planning: Assist Client in developing and refining 
+           its business strategy, including market analysis, competitive 
+           positioning, and growth planning;
+
+       (b) Operations Optimization: Review Client's operational processes 
+           and provide recommendations for efficiency improvements, 
+           workflow optimization, and cost reduction;
+
+       (c) Organizational Development: Advise on organizational structure, 
+           team development, and leadership coaching;
+
+       (d) Project Management: Provide guidance on project planning, 
+           execution, and performance monitoring for key Client 
+           initiatives;
+
+       (e) Ad Hoc Advisory Services: Provide strategic advice and counsel 
+           to Client's management team on business matters as reasonably 
+           requested.
+
+       A detailed statement of work outlining specific deliverables, 
+       timelines, and milestones is attached hereto as Exhibit A and 
+       incorporated by reference.
+
+   1.2 Standard of Performance. Consultant shall perform all Services in a 
+       professional and workmanlike manner consistent with industry 
+       standards for similar consulting services. Consultant shall devote 
+       such time, attention, and effort as reasonably necessary to perform 
+       the Services effectively.
+
+   1.3 Client Cooperation. Client shall provide Consultant with reasonable 
+       access to Client personnel, facilities, information, and resources 
+       necessary for Consultant to perform the Services. Client shall 
+       designate a primary point of contact to coordinate with Consultant.
+
+   1.4 Independent Contractor Status. Consultant is an independent 
+       contractor and not an employee, partner, or agent of Client. 
+       Consultant shall be solely responsible for all taxes, insurance, 
+       and benefits related to the compensation received hereunder.
+
+
+2. TERM AND TERMINATION
+
+   2.1 Initial Term. This Agreement shall commence on the Effective Date 
+       and shall continue for an initial term of twelve (12) months (the 
+       "Initial Term"), unless earlier terminated pursuant to this 
+       Section 2.
+
+   2.2 Renewal. This Agreement may be renewed for additional terms upon 
+       mutual written agreement of the Parties executed prior to the 
+       expiration of the then-current term.
+
+   2.3 Termination for Convenience. Either Party may terminate this 
+       Agreement for any reason or no reason by providing the other Party 
+       with at least thirty (30) days' prior written notice.
+
+   2.4 Termination for Cause. Either Party may terminate this Agreement 
+       immediately upon written notice if the other Party: (a) materially 
+       breaches any provision of this Agreement and fails to cure such 
+       breach within fifteen (15) days after receiving written notice 
+       specifying the breach; or (b) becomes insolvent, files for 
+       bankruptcy, or makes an assignment for the benefit of creditors.
+
+   2.5 Effect of Termination. Upon termination or expiration of this 
+       Agreement: (a) Consultant shall immediately cease performing 
+       Services; (b) Consultant shall deliver to Client all work product, 
+       documents, materials, and Client Confidential Information in 
+       Consultant's possession; (c) Client shall pay Consultant for all 
+       Services satisfactorily performed through the effective termination 
+       date; and (d) the provisions of Sections 4 (Intellectual Property), 
+       5 (Confidentiality), 6 (Limitation of Liability), and 8 (General 
+       Provisions) shall survive termination.
+
+
+3. COMPENSATION AND PAYMENT
+
+   3.1 Fees. Client shall pay Consultant the fees set forth in Exhibit B 
+       attached hereto. Unless otherwise specified in Exhibit B, 
+       Consultant's fees shall be $250 per hour for consulting services, 
+       with a monthly cap of $20,000.
+
+   3.2 Expenses. Client shall reimburse Consultant for reasonable and 
+       documented out-of-pocket expenses incurred in connection with the 
+       performance of Services, including travel, lodging, and meals, 
+       provided that: (a) such expenses are pre-approved in writing by 
+       Client; and (b) Consultant provides Client with appropriate 
+       documentation and receipts.
+
+   3.3 Invoicing and Payment. Consultant shall submit itemized invoices to 
+       Client on a monthly basis detailing Services performed and expenses 
+       incurred. Client shall pay all undisputed amounts within thirty 
+       (30) days of receipt of invoice (Net 30). Late payments shall 
+       accrue interest at a rate of one percent (1%) per month or the 
+       maximum rate permitted by law, whichever is less.
+
+   3.4 Disputed Amounts. If Client disputes any invoiced amount in good 
+       faith, Client shall notify Consultant in writing within fifteen 
+       (15) days of receipt of the invoice, specifying the disputed 
+       amount and basis for dispute. Client shall pay all undisputed 
+       amounts by the due date. The Parties shall work together in good 
+       faith to resolve any disputed amounts promptly.
+
+
+4. INTELLECTUAL PROPERTY AND WORK PRODUCT
+
+   4.1 Client Ownership. All work product, deliverables, inventions, 
+       discoveries, improvements, designs, writings, documents, software, 
+       data, reports, analyses, recommendations, and other materials 
+       created, developed, or prepared by Consultant in connection with 
+       the Services (collectively, "Work Product") shall be the sole and 
+       exclusive property of Client. Consultant hereby assigns to Client 
+       all right, title, and interest in and to the Work Product, 
+       including all intellectual property rights therein.
+
+   4.2 Work Made for Hire. To the extent permitted by law, all Work 
+       Product shall be deemed a "work made for hire" under applicable 
+       copyright law, with Client as the author and owner. To the extent 
+       any Work Product does not qualify as a work made for hire, 
+       Consultant hereby irrevocably assigns to Client all right, title, 
+       and interest in and to such Work Product, including all patents, 
+       copyrights, trademarks, trade secrets, and other intellectual 
+       property rights.
+
+   4.3 Further Assurances. Consultant agrees to execute and deliver such 
+       additional documents and instruments as Client may reasonably 
+       request to evidence, perfect, or defend Client's ownership of the 
+       Work Product.
+
+   4.4 Consultant's Pre-Existing Materials. Consultant retains all right, 
+       title, and interest in and to any pre-existing intellectual 
+       property, tools, methodologies, templates, or materials developed 
+       by Consultant prior to or independently of this engagement 
+       ("Consultant Materials"). Consultant grants Client a non-exclusive, 
+       perpetual, irrevocable, royalty-free license to use, reproduce, 
+       modify, and distribute any Consultant Materials incorporated into 
+       the Work Product solely for Client's internal business purposes.
+
+   4.5 Third-Party Materials. Consultant represents and warrants that any 
+       third-party materials incorporated into the Work Product are either 
+       properly licensed or in the public domain. Consultant shall obtain 
+       all necessary rights and licenses before incorporating any third-
+       party materials into the Work Product.
+
+
+5. CONFIDENTIALITY
+
+   5.1 Confidential Information. "Confidential Information" means any non-
+       public, proprietary, or confidential information disclosed by one 
+       Party (the "Disclosing Party") to the other Party (the "Receiving 
+       Party"), whether disclosed orally, in writing, or in any other 
+       form, including but not limited to: technical data, trade secrets, 
+       know-how, research, product plans, products, services, customers, 
+       customer lists, markets, software, developments, inventions, 
+       processes, formulas, technology, designs, drawings, engineering, 
+       hardware configuration information, marketing, finances, business 
+       plans, and other business information.
+
+   5.2 Obligations. The Receiving Party agrees to: (a) hold all 
+       Confidential Information in strict confidence; (b) not disclose 
+       Confidential Information to any third party without the prior 
+       written consent of the Disclosing Party; (c) use Confidential 
+       Information solely for the purposes of this Agreement; (d) protect 
+       Confidential Information using at least the same degree of care as 
+       it uses to protect its own confidential information, but in no 
+       event less than reasonable care; and (e) limit access to 
+       Confidential Information to those of its employees, contractors, 
+       and advisors who have a legitimate need to know and who are bound 
+       by confidentiality obligations at least as restrictive as those 
+       contained herein.
+
+   5.3 Duration. The obligations set forth in this Section 5 shall remain 
+       in effect for a period of five (5) years following the termination 
+       or expiration of this Agreement.
+
+   5.4 Exceptions. Confidential Information shall not include information 
+       that: (a) is or becomes publicly available through no breach of 
+       this Agreement by the Receiving Party; (b) was rightfully in the 
+       Receiving Party's possession prior to disclosure by the Disclosing 
+       Party; (c) is rightfully received by the Receiving Party from a 
+       third party without breach of any confidentiality obligation; 
+       (d) is independently developed by the Receiving Party without use 
+       of or reference to the Confidential Information; or (e) is required 
+       to be disclosed by law, regulation, or court order, provided that 
+       the Receiving Party provides the Disclosing Party with prompt 
+       written notice of such requirement and cooperates with any efforts 
+       by the Disclosing Party to seek a protective order.
+
+
+6. REPRESENTATIONS, WARRANTIES, AND LIMITATION OF LIABILITY
+
+   6.1 Consultant Representations and Warranties. Consultant represents 
+       and warrants that:
+
+       (a) Consultant has the full right, power, and authority to enter 
+           into this Agreement and perform the Services;
+
+       (b) Consultant possesses the necessary skills, qualifications, and 
+           experience to perform the Services;
+
+       (c) The Services shall be performed in a professional manner in 
+           accordance with industry standards;
+
+       (d) The Work Product and Services shall not infringe or violate any 
+           intellectual property rights, proprietary rights, or other 
+           rights of any third party;
+
+       (e) Consultant is not subject to any agreement, restriction, or 
+           obligation that would prevent or limit Consultant's performance 
+           under this Agreement;
+
+       (f) Consultant shall comply with all applicable federal, state, and 
+           local laws and regulations in performing the Services.
+
+   6.2 Disclaimer of Warranties. EXCEPT AS EXPRESSLY PROVIDED IN SECTION 
+       6.1, CONSULTANT PROVIDES THE SERVICES "AS IS" WITHOUT ANY 
+       WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY 
+       IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+       PURPOSE, OR NON-INFRINGEMENT.
+
+   6.3 Limitation of Liability. CONSULTANT'S TOTAL LIABILITY ARISING OUT 
+       OF OR RELATED TO THIS AGREEMENT, WHETHER BASED IN CONTRACT, TORT 
+       (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, SHALL NOT 
+       EXCEED FIVE HUNDRED THOUSAND DOLLARS ($500,000). IN NO EVENT SHALL 
+       CONSULTANT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, 
+       SPECIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO LOST 
+       PROFITS, LOSS OF REVENUE, LOSS OF DATA, OR BUSINESS INTERRUPTION, 
+       EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   6.4 Exceptions. The limitation of liability set forth in Section 6.3 
+       shall not apply to: (a) Consultant's breach of Section 5 
+       (Confidentiality); (b) Consultant's breach of Section 4 
+       (Intellectual Property and Work Product); (c) damages caused by 
+       Consultant's gross negligence, willful misconduct, or fraud; or 
+       (d) Consultant's indemnification obligations under Section 7.
+
+
+7. INDEMNIFICATION
+
+   7.1 Indemnification by Consultant. Consultant shall indemnify, defend, 
+       and hold harmless Client and its officers, directors, employees, 
+       agents, successors, and assigns from and against any and all 
+       claims, demands, actions, liabilities, losses, damages, costs, and 
+       expenses (including reasonable attorneys' fees) arising out of or 
+       related to: (a) any breach of Consultant's representations, 
+       warranties, or obligations under this Agreement; (b) any claim that 
+       the Work Product or Services infringe or violate any intellectual 
+       property rights or other rights of any third party; (c) any 
+       negligent or wrongful act or omission by Consultant; or (d) any 
+       violation of applicable law by Consultant.
+
+   7.2 Indemnification Procedure. The indemnified Party shall: (a) 
+       promptly notify the indemnifying Party in writing of any claim 
+       subject to indemnification; (b) cooperate with the indemnifying 
+       Party in the defense of such claim; and (c) permit the indemnifying 
+       Party to control the defense and settlement of such claim, provided 
+       that the indemnifying Party shall not settle any claim without the 
+       indemnified Party's prior written consent if such settlement 
+       imposes any obligations on or admits any liability of the 
+       indemnified Party.
+
+
+8. GENERAL PROVISIONS
+
+   8.1 Governing Law and Jurisdiction. This Agreement shall be governed by 
+       and construed in accordance with the laws of the Commonwealth of 
+       Massachusetts, without regard to its conflict of laws principles. 
+       The Parties hereby consent to the exclusive jurisdiction and venue 
+       of the state and federal courts located in Suffolk County, 
+       Massachusetts for any disputes arising under or relating to this 
+       Agreement.
+
+   8.2 Entire Agreement. This Agreement, including all exhibits attached 
+       hereto, constitutes the entire agreement between the Parties 
+       regarding the subject matter hereof and supersedes all prior and 
+       contemporaneous agreements, understandings, representations, and 
+       communications, whether written or oral, relating to such subject 
+       matter.
+
+   8.3 Amendments. No amendment, modification, or waiver of any provision 
+       of this Agreement shall be effective unless in writing and signed 
+       by authorized representatives of both Parties.
+
+   8.4 Assignment. Consultant may not assign this Agreement or delegate 
+       any of its obligations hereunder without the prior written consent 
+       of Client. Client may assign this Agreement without consent to any 
+       successor in connection with a merger, acquisition, corporate 
+       reorganization, or sale of substantially all of its assets. Subject 
+       to the foregoing, this Agreement shall be binding upon and inure to 
+       the benefit of the Parties and their respective successors and 
+       permitted assigns.
+
+   8.5 Severability. If any provision of this Agreement is held to be 
+       invalid, illegal, or unenforceable by a court of competent 
+       jurisdiction, the remaining provisions shall remain in full force 
+       and effect, and the invalid provision shall be modified to the 
+       minimum extent necessary to make it valid and enforceable while 
+       preserving the Parties' original intent.
+
+   8.6 Waiver. No waiver of any provision of this Agreement shall be 
+       effective unless in writing and signed by the Party against whom 
+       such waiver is sought to be enforced. No waiver of any breach or 
+       default shall constitute a waiver of any other breach or default.
+
+   8.7 Notices. All notices, requests, demands, and other communications 
+       required or permitted under this Agreement shall be in writing and 
+       shall be deemed delivered when: (a) delivered personally; (b) sent 
+       by confirmed electronic mail to the addresses below; (c) one (1) 
+       business day after being sent by overnight courier service; or 
+       (d) three (3) business days after being sent by certified or 
+       registered mail, return receipt requested, postage prepaid.
+
+       If to Client:
+       StartupCo
+       555 Innovation Drive
+       Boston, MA 02101
+       Attention: Chief Executive Officer
+       Email: ceo@startupco.com
+
+       If to Consultant:
+       John Smith Consulting LLC
+       888 Main Street
+       Cambridge, MA 02138
+       Attention: John Smith
+       Email: john@jsmithconsulting.com
+
+   8.8 Conflict of Interest. Consultant represents that Consultant is not 
+       currently engaged by any competitor of Client or any entity whose 
+       interests may conflict with Client's interests. Consultant shall 
+       notify Client promptly if any such conflict arises during the term 
+       of this Agreement.
+
+   8.9 Non-Solicitation. During the term of this Agreement and for a 
+       period of twelve (12) months following termination, Consultant 
+       shall not, without Client's prior written consent, directly or 
+       indirectly solicit, recruit, or hire any employee or independent 
+       contractor of Client.
+
+   8.10 Counterparts and Electronic Signatures. This Agreement may be 
+        executed in counterparts, each of which shall be deemed an 
+        original and all of which together shall constitute one and the 
+        same instrument. Electronic signatures and electronically delivered 
+        signatures shall have the same force and effect as original 
+        signatures.
+
+   8.11 Force Majeure. Neither Party shall be liable for any failure or 
+        delay in performance under this Agreement (except for payment 
+        obligations) due to causes beyond its reasonable control, 
+        including acts of God, natural disasters, war, terrorism, riots, 
+        civil unrest, labor disputes, government actions, epidemics, 
+        pandemics, or failures of telecommunications or internet 
+        infrastructure.
+
+   8.12 Publicity. Neither Party shall issue any press release or make any 
+        public announcement regarding this Agreement or the relationship 
+        between the Parties without the prior written consent of the other 
+        Party, except as required by applicable law or regulation.
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the 
+date first written above.
+
+
+STARTUPCO
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________
+
+
+
+JOHN SMITH CONSULTING LLC
+
+
+By: _________________________________
+
+Name: John Smith
+
+Title: Managing Member
+
+Date: _________________________________

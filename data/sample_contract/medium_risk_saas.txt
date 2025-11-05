@@ -1,0 +1,355 @@
+                    SAAS SUBSCRIPTION AGREEMENT
+
+
+This SaaS Subscription Agreement (the "Agreement") is entered into as of 
+the 1st day of June, 2024 (the "Effective Date"), by and between:
+
+     Acme Corporation, a Delaware corporation with its principal place of 
+     business at 789 Business Boulevard, New York, NY 10001 (hereinafter 
+     referred to as "Customer" or "Subscriber"),
+
+and
+
+     DataAnalytics SaaS Inc., a Delaware corporation with its principal 
+     place of business at 321 Software Street, San Jose, CA 95110 
+     (hereinafter referred to as "Provider" or "Company").
+
+Customer and Provider are collectively referred to herein as the "Parties" 
+and individually as a "Party."
+
+
+                              RECITALS
+
+WHEREAS, Provider offers a cloud-based data analytics platform and related 
+services; and
+
+WHEREAS, Customer desires to subscribe to and use Provider's software 
+platform pursuant to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements 
+contained herein, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the Parties 
+agree as follows:
+
+
+1. SUBSCRIPTION SERVICES
+
+   1.1 Grant of License. Subject to the terms and conditions of this 
+       Agreement, Provider grants to Customer a non-exclusive, 
+       non-transferable, non-sublicensable right to access and use the 
+       Provider's data analytics platform (the "Platform") and related 
+       services (collectively, the "Services") during the Subscription 
+       Term solely for Customer's internal business purposes.
+
+   1.2 Service Description. The Services include access to Provider's 
+       proprietary data analytics software, data visualization tools, 
+       reporting features, API access, technical support, and software 
+       updates and maintenance as described in Exhibit A attached hereto.
+
+   1.3 User Accounts. Customer may create user accounts for its authorized 
+       employees and contractors (each an "Authorized User") up to the 
+       number of user licenses purchased. Customer is responsible for all 
+       activities conducted under its user accounts and shall ensure that 
+       all Authorized Users comply with this Agreement.
+
+   1.4 Restrictions. Customer shall not, and shall not permit any third 
+       party to: (a) reverse engineer, decompile, or disassemble the 
+       Platform; (b) copy, modify, or create derivative works of the 
+       Services; (c) sublicense, resell, or distribute the Services; 
+       (d) use the Services for competitive analysis or benchmarking; or 
+       (e) use the Services in any manner that violates applicable law.
+
+
+2. SUBSCRIPTION TERM AND RENEWAL
+
+   2.1 Initial Term. This Agreement shall commence on the Effective Date 
+       and shall continue for an initial term of two (2) years (the 
+       "Initial Term"), unless earlier terminated in accordance with the 
+       provisions herein.
+
+   2.2 Automatic Renewal. Upon expiration of the Initial Term, this 
+       Agreement shall automatically renew for successive one (1) year 
+       terms (each a "Renewal Term") unless either Party provides written 
+       notice of non-renewal at least one hundred twenty (120) days prior 
+       to the end of the then-current term. The Initial Term and any 
+       Renewal Terms are collectively referred to as the "Subscription 
+       Term."
+
+   2.3 Termination for Convenience. Either Party may terminate this 
+       Agreement for convenience upon providing written notice at least 
+       one hundred twenty (120) days prior to the desired termination date.
+
+   2.4 Termination for Cause. Either Party may terminate this Agreement 
+       immediately upon written notice if the other Party materially 
+       breaches any provision of this Agreement and fails to cure such 
+       breach within thirty (30) days after receiving written notice 
+       specifying the breach.
+
+   2.5 Effect of Termination. Upon termination or expiration of this 
+       Agreement, Customer's right to access and use the Services shall 
+       immediately cease. Customer shall pay all outstanding fees through 
+       the effective date of termination. Provider shall, upon Customer's 
+       written request made within thirty (30) days of termination, make 
+       Customer's data available for export in a standard format.
+
+
+3. FEES AND PAYMENT
+
+   3.1 Subscription Fees. Customer shall pay Provider the subscription 
+       fees set forth in Exhibit B attached hereto (the "Fees"). Fees are 
+       based on the subscription tier, number of user licenses, data 
+       volume, and any additional features or services purchased.
+
+   3.2 Payment Terms. Provider shall invoice Customer monthly or annually 
+       as selected by Customer. All invoices shall be paid within forty-
+       five (45) days of the invoice date (Net 45). Late payments shall 
+       accrue interest at a rate of one percent (1%) per month or the 
+       maximum rate permitted by law, whichever is less.
+
+   3.3 Fee Adjustments. Provider may increase the Fees upon renewal by 
+       providing Customer with written notice at least ninety (90) days 
+       prior to the renewal date. If Customer does not agree to the 
+       increased Fees, Customer may terminate this Agreement pursuant to 
+       Section 2.2.
+
+   3.4 Taxes. Customer shall be responsible for all applicable federal, 
+       state, local, and foreign taxes, duties, tariffs, and similar 
+       assessments (excluding taxes based on Provider's net income).
+
+
+4. DATA RIGHTS AND USAGE
+
+   4.1 Customer Data. As between the Parties, Customer retains all right, 
+       title, and interest in and to all data, information, and content 
+       uploaded, submitted, or transmitted by Customer to the Platform 
+       ("Customer Data"). Customer grants Provider a limited, worldwide, 
+       non-exclusive license to host, copy, transmit, display, and process 
+       Customer Data solely to the extent necessary to provide the 
+       Services.
+
+   4.2 Data Usage Rights. Customer acknowledges and agrees that Provider 
+       may collect, analyze, and use aggregated and anonymized usage data 
+       derived from Customer's use of the Services (including statistical 
+       data, performance metrics, and usage patterns) for Provider's 
+       business purposes, including to improve and enhance the Services, 
+       develop new features and products, conduct market research and 
+       analytics, and for benchmarking purposes. Provider may also use 
+       such aggregated and anonymized data to create industry reports, 
+       trend analyses, and other derivative works, provided that such data 
+       cannot be used to identify Customer or any individual.
+
+   4.3 Data Security. Provider shall implement and maintain reasonable 
+       administrative, physical, and technical safeguards designed to 
+       protect Customer Data from unauthorized access, use, or disclosure. 
+       Provider's security practices are described in its Security Policy 
+       available at Provider's website.
+
+   4.4 Data Backup. Provider shall perform regular backups of Customer 
+       Data in accordance with its standard backup procedures. However, 
+       Customer is solely responsible for maintaining independent backups 
+       of Customer Data.
+
+
+5. CONFIDENTIALITY
+
+   5.1 Confidential Information. Each Party acknowledges that it may 
+       receive or have access to confidential and proprietary information 
+       of the other Party, including but not limited to technical data, 
+       trade secrets, business plans, customer information, financial 
+       information, product roadmaps, and other non-public information 
+       (collectively, "Confidential Information"). The terms and pricing 
+       of this Agreement shall be deemed Confidential Information of both 
+       Parties.
+
+   5.2 Confidentiality Obligations. Each Party agrees to: (a) maintain the 
+       confidentiality of the other Party's Confidential Information using 
+       at least the same degree of care it uses to protect its own 
+       confidential information, but in no event less than reasonable care; 
+       (b) not disclose such Confidential Information to any third party 
+       without the prior written consent of the disclosing Party; and 
+       (c) use such Confidential Information solely for the purposes 
+       contemplated by this Agreement. These confidentiality obligations 
+       shall survive for a period of three (3) years following the 
+       termination or expiration of this Agreement.
+
+   5.3 Exceptions. Confidential Information shall not include information 
+       that: (a) is or becomes publicly available through no breach of 
+       this Agreement by the receiving Party; (b) is rightfully received 
+       by the receiving Party from a third party without breach of any 
+       confidentiality obligation; (c) was independently developed by the 
+       receiving Party without use of or reference to the Confidential 
+       Information; or (d) is required to be disclosed by law, regulation, 
+       or court order, provided that the receiving Party provides prompt 
+       written notice to the disclosing Party.
+
+
+6. INTELLECTUAL PROPERTY
+
+   6.1 Provider's IP Rights. Provider retains all right, title, and 
+       interest in and to the Platform, Services, and all related 
+       intellectual property, including all patents, copyrights, 
+       trademarks, trade secrets, and other proprietary rights. Nothing in 
+       this Agreement transfers any ownership rights to Customer.
+
+   6.2 Feedback. If Customer provides Provider with any suggestions, 
+       enhancement requests, recommendations, or other feedback regarding 
+       the Services ("Feedback"), Provider shall be free to use, disclose, 
+       reproduce, license, and otherwise exploit such Feedback without 
+       restriction or obligation to Customer.
+
+
+7. WARRANTIES AND DISCLAIMERS
+
+   7.1 Provider Warranties. Provider represents and warrants that: (a) it 
+       has the full right and authority to enter into this Agreement and 
+       grant the rights granted herein; (b) the Services shall perform 
+       substantially in accordance with the documentation provided; (c) it 
+       shall perform the Services in a professional manner consistent with 
+       industry standards; and (d) it shall comply with all applicable 
+       laws and regulations.
+
+   7.2 Customer Warranties. Customer represents and warrants that: (a) it 
+       has the full right and authority to enter into this Agreement; 
+       (b) Customer Data does not and shall not infringe any intellectual 
+       property rights or violate any applicable laws; and (c) it shall 
+       use the Services in compliance with this Agreement and applicable 
+       law.
+
+   7.3 Disclaimer. EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 7, THE 
+       SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES 
+       OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. PROVIDER 
+       SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES 
+       OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-
+       INFRINGEMENT, AND UNINTERRUPTED OR ERROR-FREE OPERATION.
+
+
+8. LIMITATION OF LIABILITY
+
+   8.1 Liability Cap. EXCEPT FOR LIABILITIES ARISING FROM EITHER PARTY'S 
+       BREACH OF SECTION 5 (CONFIDENTIALITY) OR SECTION 9 
+       (INDEMNIFICATION), OR FOR EITHER PARTY'S GROSS NEGLIGENCE OR 
+       WILLFUL MISCONDUCT, EACH PARTY'S TOTAL AGGREGATE LIABILITY ARISING 
+       OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR 
+       OTHERWISE, SHALL NOT EXCEED FIVE MILLION DOLLARS ($5,000,000).
+
+   8.2 Exclusion of Consequential Damages. IN NO EVENT SHALL EITHER PARTY 
+       BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR 
+       EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF 
+       PROFITS, REVENUE, GOODWILL, USE, OR DATA, EVEN IF ADVISED OF THE 
+       POSSIBILITY OF SUCH DAMAGES.
+
+
+9. INDEMNIFICATION
+
+   9.1 Provider Indemnification. Provider shall indemnify, defend, and 
+       hold harmless Customer from and against any claims, damages, 
+       losses, liabilities, and expenses (including reasonable attorneys' 
+       fees) arising from: (a) any claim that the Services, when used as 
+       authorized under this Agreement, infringe any patent, copyright, 
+       trademark, or trade secret of a third party; or (b) Provider's 
+       breach of its obligations under this Agreement.
+
+   9.2 Customer Indemnification. Customer shall indemnify, defend, and 
+       hold harmless Provider from and against any claims, damages, 
+       losses, liabilities, and expenses (including reasonable attorneys' 
+       fees) arising from: (a) Customer Data; (b) Customer's use of the 
+       Services in violation of this Agreement or applicable law; or 
+       (c) Customer's breach of its obligations under this Agreement.
+
+
+10. COMPLIANCE AND DATA PROTECTION
+
+    10.1 Compliance with Laws. Each Party shall comply with all applicable 
+         federal, state, local, and foreign laws and regulations in 
+         connection with its performance under this Agreement.
+
+    10.2 Data Protection. To the extent Provider processes any personal 
+         data on behalf of Customer in connection with the Services, the 
+         Parties agree to comply with applicable data protection laws and 
+         regulations. Provider's data processing practices are governed by 
+         the Data Processing Addendum attached hereto as Exhibit C.
+
+
+11. GENERAL PROVISIONS
+
+    11.1 Entire Agreement. This Agreement, including all exhibits attached 
+         hereto, constitutes the entire agreement between the Parties 
+         regarding the subject matter hereof and supersedes all prior and 
+         contemporaneous agreements, understandings, and communications, 
+         whether written or oral.
+
+    11.2 Amendments. No amendment, modification, or waiver of any provision 
+         of this Agreement shall be effective unless in writing and signed 
+         by authorized representatives of both Parties.
+
+    11.3 Governing Law. This Agreement shall be governed by and construed 
+         in accordance with the laws of the State of California, without 
+         regard to its conflict of laws principles. The Parties hereby 
+         consent to the exclusive jurisdiction and venue of the state and 
+         federal courts located in Santa Clara County, California.
+
+    11.4 Severability. If any provision of this Agreement is held to be 
+         invalid, illegal, or unenforceable, the remaining provisions 
+         shall remain in full force and effect, and the invalid provision 
+         shall be modified to the minimum extent necessary to make it 
+         valid and enforceable.
+
+    11.5 Assignment. Neither Party may assign this Agreement without the 
+         prior written consent of the other Party, except that either 
+         Party may assign this Agreement without consent to a successor in 
+         connection with a merger, acquisition, corporate reorganization, 
+         or sale of substantially all of its assets related to the subject 
+         matter of this Agreement.
+
+    11.6 Notices. All notices required or permitted under this Agreement 
+         shall be in writing and shall be deemed delivered when: (a) 
+         delivered personally; (b) sent by confirmed electronic mail; (c) 
+         sent by confirmed facsimile; or (d) three (3) business days after 
+         being sent by certified or registered mail, return receipt 
+         requested, postage prepaid, to the addresses set forth above or 
+         to such other address as either Party may designate in writing.
+
+    11.7 Independent Contractors. The Parties are independent contractors. 
+         Nothing in this Agreement creates a partnership, joint venture, 
+         agency, or employment relationship between the Parties.
+
+    11.8 Force Majeure. Neither Party shall be liable for any failure or 
+         delay in performance under this Agreement (except for payment 
+         obligations) due to causes beyond its reasonable control, 
+         including acts of God, natural disasters, war, terrorism, riots, 
+         labor disputes, governmental actions, or failures of internet or 
+         telecommunications infrastructure.
+
+    11.9 Counterparts. This Agreement may be executed in counterparts, 
+         each of which shall be deemed an original and all of which 
+         together shall constitute one and the same instrument. Electronic 
+         signatures shall be deemed original signatures for all purposes.
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the 
+date first written above.
+
+
+ACME CORPORATION
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________
+
+
+
+DATAANALYTICS SAAS INC.
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________

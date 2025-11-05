@@ -1,0 +1,248 @@
+VENDOR SERVICES AGREEMENT
+
+This Vendor Services Agreement (the "Agreement") is entered into as of
+the 15th day of March, 2024 (the "Effective Date"), by and between:
+
+  TechCorp Inc. a Delaware corporation with its principal place of
+  business at 123 Technology Drive, San Francisco, CA 94105 (hereinafter
+  referred to as "Client" or "Buyer"),
+
+and
+
+  CloudSupplier LLC, a Texas limited liability company with its
+  principal place of business at 456 Cloud Avenue, Austin, TX 78701
+  (hereinafter referred to as "Vendor" or "Supplier").
+
+Client and Vendor are collectively referred to herein as the "Parties"
+and individually as a "Party."
+
+RECITALS
+
+WHEREAS, Vendor provides cloud infrastructure and managed services; and
+
+WHEREAS, Client desires to engage Vendor to provide certain services as
+described herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises
+contained herein, and for other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the Parties
+agree as follows:
+
+1.  SERVICES
+
+1.  Scope of Services. Vendor shall provide Client with cloud
+    infrastructure services, including but not limited to virtual server
+    provisioning, data storage solutions, network configuration,
+    security monitoring, backup and disaster recovery services, and
+    technical support (collectively, the "Services").
+
+2.  Service Standards. Vendor shall perform all Services in a
+    professional and workmanlike manner in accordance with industry
+    standards. Vendor shall provide Services with an uptime guarantee of
+    ninety-nine point nine percent (99.9%) measured on a monthly basis.
+
+3.  Service Modifications. Client may request modifications to the
+    Services by providing written notice to Vendor. Any material changes
+    to the scope of Services shall require a written amendment executed
+    by both Parties.
+
+2.  PAYMENT TERMS
+
+4.  Fees. Client shall pay Vendor monthly fees based on actual resource
+    consumption and service utilization as set forth in Exhibit A
+    attached hereto. Vendor reserves the right to adjust fees annually
+    upon thirty (30) days' written notice to Client.
+
+5.  Payment Terms. All invoices shall be paid within sixty (60) days of
+    the invoice date ("Net 60"). Late payments shall accrue interest at
+    a rate of one and one-half percent (1.5%) per month or the maximum
+    rate permitted by law, whichever is less.
+
+6.  Taxes. Client shall be responsible for all applicable federal,
+    state, and local taxes, duties, and assessments arising from this
+    Agreement, excluding taxes based on Vendor's net income.
+
+3.  TERM AND TERMINATION
+
+7.  Initial Term. This Agreement shall commence on the Effective Date
+    and shall continue for an initial term of three (3) years, unless
+    earlier terminated in accordance with the provisions herein.
+
+8.  Renewal. Upon expiration of the initial term, this Agreement shall
+    automatically renew for successive one (1) year terms unless either
+    Party provides written notice of non-renewal at least one hundred
+    eighty (180) days prior to the end of the then-current term.
+
+9.  Termination for Cause. Either Party may terminate this Agreement for
+    cause upon written notice if the other Party materially breaches any
+    provision hereof and fails to cure such breach within thirty (30)
+    days after receiving written notice thereof.
+
+10. Effect of Termination. Upon termination, Client shall pay all
+    outstanding fees for Services rendered through the termination date.
+    Vendor shall cooperate with Client to ensure orderly transition of
+    Services.
+
+4.  INTELLECTUAL PROPERTY RIGHTS
+
+11. Pre-Existing Intellectual Property. Each Party retains all right,
+    title, and interest in and to its pre-existing intellectual
+    property, including but not limited to patents, copyrights,
+    trademarks, trade secrets, and proprietary technologies.
+
+12. Joint Intellectual Property. Any intellectual property, including
+    inventions, works of authorship, software, processes, or
+    methodologies that are jointly developed or created by both Parties
+    in connection with the performance of Services under this Agreement
+    shall be jointly owned by both Parties. Each Party shall have the
+    right to use, modify, license, and commercialize such jointly owned
+    intellectual property without restriction and without accounting to
+    the other Party, subject to the confidentiality obligations set
+    forth herein.
+
+13. License Grant. Vendor grants to Client a non-exclusive,
+    non-transferable license to use Vendor's proprietary software and
+    tools solely for the purpose of receiving the Services during the
+    term of this Agreement.
+
+5.  LIABILITY AND INDEMNIFICATION
+
+14. Unlimited Liability. VENDOR SHALL BE LIABLE TO CLIENT FOR ALL
+    DAMAGES, LOSSES, COSTS, AND EXPENSES OF ANY KIND ARISING OUT OF OR
+    RELATED TO THIS AGREEMENT OR THE SERVICES PROVIDED HEREUNDER,
+    INCLUDING BUT NOT LIMITED TO DIRECT DAMAGES, INDIRECT DAMAGES,
+    CONSEQUENTIAL DAMAGES, INCIDENTAL DAMAGES, SPECIAL DAMAGES, LOST
+    PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, AND ANY OTHER ECONOMIC
+    LOSSES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE),
+    STRICT LIABILITY, OR OTHERWISE. THERE SHALL BE NO LIMITATION OR CAP
+    ON VENDOR'S LIABILITY UNDER THIS AGREEMENT.
+
+15. Indemnification by Vendor. Vendor shall indemnify, defend, and hold
+    harmless Client, its affiliates, and their respective officers,
+    directors, employees, and agents from and against any and all
+    claims, demands, losses, costs, damages, liabilities, judgments, and
+    expenses (including reasonable attorneys' fees) arising out of or
+    relating to: (a) any breach of this Agreement by Vendor; (b) any
+    negligent or wrongful act or omission by Vendor; (c) any claim that
+    Vendor's Services or technology infringe any intellectual property
+    right; or (d) any violation of applicable law by Vendor.
+
+16. Insurance. Vendor shall maintain, at its own expense, comprehensive
+    general liability insurance, professional liability insurance, and
+    cyber liability insurance with coverage limits of not less than five
+    million dollars ($5,000,000) per occurrence and in the aggregate.
+
+6.  CONFIDENTIALITY
+
+17. Confidential Information. Each Party acknowledges that it may
+    receive or have access to confidential and proprietary information
+    of the other Party, including but not limited to technical data,
+    trade secrets, business plans, customer lists, financial
+    information, and other non-public information ("Confidential
+    Information").
+
+18. Confidentiality Obligations. Each Party agrees to: (a) maintain the
+    confidentiality of the other Party's Confidential Information; (b)
+    not disclose such Confidential Information to any third party
+    without prior written consent; and (c) use such Confidential
+    Information solely for the purposes of this Agreement. These
+    obligations shall survive for a period of two (2) years following
+    the termination or expiration of this Agreement.
+
+19. Exceptions. Confidential Information shall not include information
+    that: (a) is or becomes publicly available through no breach of this
+    Agreement; (b) is rightfully received from a third party without
+    breach of confidentiality obligations; (c) was independently
+    developed without use of Confidential Information; or (d) is
+    required to be disclosed by law or court order.
+
+7.  WARRANTIES AND REPRESENTATIONS
+
+20. Vendor Warranties. Vendor represents and warrants that: (a) it has
+    the full right and authority to enter into this Agreement and
+    perform the Services; (b) the Services shall be performed in
+    accordance with industry standards; (c) the Services shall not
+    infringe any intellectual property rights of third parties; and (d)
+    it shall comply with all applicable federal, state, and local laws
+    and regulations.
+
+21. Client Warranties. Client represents and warrants that it has the
+    full right and authority to enter into this Agreement and shall
+    provide Vendor with accurate information necessary for the
+    performance of Services.
+
+8.  GOVERNING LAW AND DISPUTE RESOLUTION
+
+22. Governing Law. This Agreement shall be governed by and construed in
+    accordance with the laws of the State of Texas, without regard to
+    its conflict of laws principles.
+
+23. Venue and Jurisdiction. The Parties hereby consent to the exclusive
+    jurisdiction and venue of the state and federal courts located in
+    Travis County, Texas for any disputes arising under or relating to
+    this Agreement.
+
+24. Dispute Resolution. In the event of any dispute arising under this
+    Agreement, the Parties shall first attempt to resolve the dispute
+    through good faith negotiations. If the dispute cannot be resolved
+    through negotiation within thirty (30) days, either Party may pursue
+    available legal remedies.
+
+9.  GENERAL PROVISIONS
+
+25. Entire Agreement. This Agreement, including any exhibits attached
+    hereto, constitutes the entire agreement between the Parties with
+    respect to the subject matter hereof and supersedes all prior
+    negotiations, understandings, and agreements.
+
+26. Amendments. No amendment, modification, or waiver of any provision
+    of this Agreement shall be effective unless in writing and signed by
+    both Parties.
+
+27. Severability. If any provision of this Agreement is held to be
+    invalid or unenforceable, the remaining provisions shall continue in
+    full force and effect.
+
+28. Assignment. Neither Party may assign this Agreement without the
+    prior written consent of the other Party, except that either Party
+    may assign this Agreement to a successor in connection with a
+    merger, acquisition, or sale of substantially all of its assets.
+
+29. Notices. All notices required or permitted under this Agreement
+    shall be in writing and shall be deemed given when delivered
+    personally, sent by confirmed facsimile or email, or three (3) days
+    after being sent by certified mail, return receipt requested, to the
+    addresses set forth above or such other address as either Party may
+    designate in writing.
+
+30. Force Majeure. Neither Party shall be liable for any failure or
+    delay in performance under this Agreement due to circumstances
+    beyond its reasonable control, including acts of God, war,
+    terrorism, labor disputes, or governmental actions.
+
+31. Counterparts. This Agreement may be executed in counterparts, each
+    of which shall be deemed an original and all of which together shall
+    constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the
+date first written above.
+
+TECHCORP INC.
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________
+
+CLOUDSUPPLIER LLC
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________

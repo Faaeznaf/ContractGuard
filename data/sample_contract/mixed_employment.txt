@@ -1,0 +1,473 @@
+                    EMPLOYMENT AGREEMENT
+
+
+This Employment Agreement (the "Agreement") is entered into as of the 
+15th day of July, 2024 (the "Effective Date"), by and between:
+
+     FinTech Solutions Inc., a Delaware corporation with its principal 
+     place of business at 2500 Financial Plaza, Austin, TX 78701 
+     (hereinafter referred to as "Company" or "Employer"),
+
+and
+
+     Jane Doe, an individual residing at 123 Oak Street, Austin, TX 78702 
+     (hereinafter referred to as "Employee").
+
+
+                              RECITALS
+
+WHEREAS, Company desires to employ Employee as a Software Engineer; and
+
+WHEREAS, Employee desires to accept such employment upon the terms and 
+conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements 
+contained herein, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the parties 
+agree as follows:
+
+
+1. EMPLOYMENT
+
+   1.1 Position. Company hereby employs Employee, and Employee hereby 
+       accepts employment with Company, in the position of Software 
+       Engineer, Level 3. Employee shall report to the Chief Technology 
+       Officer or such other person as the Company may designate.
+
+   1.2 Duties and Responsibilities. Employee shall perform such duties and 
+       responsibilities as are customarily associated with the position of 
+       Software Engineer and as may be assigned from time to time by the 
+       Company. Employee's duties shall include, but not be limited to:
+
+       (a) Designing, developing, testing, and maintaining software 
+           applications and systems for the Company's financial technology 
+           platform;
+
+       (b) Writing clean, efficient, and well-documented code;
+
+       (c) Collaborating with cross-functional teams including product 
+           managers, designers, and other engineers;
+
+       (d) Participating in code reviews, technical design discussions, 
+           and agile development processes;
+
+       (e) Troubleshooting and resolving software defects and production 
+           issues;
+
+       (f) Staying current with emerging technologies and industry best 
+           practices;
+
+       (g) Other duties as reasonably assigned by the Company.
+
+   1.3 At-Will Employment. Employee's employment with Company is "at-will," 
+       meaning that either Employee or Company may terminate the 
+       employment relationship at any time, with or without cause, and 
+       with or without notice, subject to the notice provisions in 
+       Section 7 of this Agreement. Nothing in this Agreement shall be 
+       construed to create a contract for a specific term of employment.
+
+   1.4 Work Location. Employee's primary work location shall be at the 
+       Company's offices in Austin, Texas. However, Company acknowledges 
+       and agrees that Employee is permitted to work remotely on a full-
+       time basis, subject to Company's remote work policies and 
+       procedures. Employee may be required to attend in-person meetings, 
+       team events, or training sessions as reasonably requested by 
+       Company with adequate advance notice.
+
+   1.5 Full-Time Commitment. Employee shall devote Employee's full 
+       business time, attention, skills, and efforts to the performance of 
+       Employee's duties hereunder. Employee shall not, without the prior 
+       written consent of Company, engage in any other business activity 
+       that conflicts or interferes with Employee's duties and obligations 
+       to Company.
+
+
+2. COMPENSATION
+
+   2.1 Base Salary. Employee shall receive an annual base salary of One 
+       Hundred Fifty Thousand Dollars ($150,000.00), payable in accordance 
+       with Company's standard payroll practices, currently bi-weekly. 
+       Employee's salary shall be subject to applicable withholdings and 
+       deductions required by law or authorized by Employee.
+
+   2.2 Performance Reviews and Adjustments. Employee's performance and 
+       compensation shall be reviewed annually. Any adjustments to 
+       Employee's compensation shall be at the sole discretion of Company 
+       based on factors including but not limited to Employee's 
+       performance, Company performance, and market conditions.
+
+   2.3 Bonus Eligibility. Employee shall be eligible to participate in 
+       Company's annual bonus program, with a target bonus of fifteen 
+       percent (15%) of base salary, subject to achievement of individual 
+       and company performance objectives as determined by Company in its 
+       sole discretion. Bonus payments, if any, shall be made in 
+       accordance with the terms of the applicable bonus plan.
+
+   2.4 Equity Compensation. Subject to approval by the Company's Board of 
+       Directors or Compensation Committee, Employee shall be granted 
+       stock options to purchase 10,000 shares of Company common stock, 
+       pursuant to the Company's 2024 Equity Incentive Plan. The terms of 
+       such stock options, including vesting schedule, exercise price, and 
+       other conditions, shall be set forth in a separate stock option 
+       agreement.
+
+
+3. BENEFITS
+
+   3.1 Employee Benefits. Employee shall be eligible to participate in all 
+       employee benefit plans, programs, and arrangements maintained by 
+       Company for its employees, including:
+
+       (a) Health Insurance: Company shall provide comprehensive health 
+           insurance coverage, including medical, dental, and vision 
+           benefits. Company shall pay 100% of the premium for employee-
+           only coverage and 75% of the premium for dependent coverage;
+
+       (b) Retirement Plan: Employee shall be eligible to participate in 
+           Company's 401(k) retirement plan with company matching 
+           contributions of up to 5% of base salary;
+
+       (c) Life and Disability Insurance: Company shall provide basic life 
+           insurance coverage equal to one times annual base salary and 
+           long-term disability insurance;
+
+       (d) Paid Time Off: Employee shall be entitled to twenty (20) days 
+           of paid time off (PTO) per calendar year, accruing in 
+           accordance with Company policy. Unused PTO may be carried over 
+           to the following year subject to a maximum accrual cap as 
+           specified in Company policy;
+
+       (e) Holidays: Employee shall be entitled to all Company-observed 
+           holidays, currently ten (10) paid holidays per year;
+
+       (f) Sick Leave: Employee shall be entitled to sick leave in 
+           accordance with applicable state and local law;
+
+       (g) Parental Leave: Employee shall be eligible for parental leave 
+           benefits in accordance with Company policy, currently providing 
+           twelve (12) weeks of paid parental leave;
+
+       (h) Professional Development: Company shall provide up to $3,000 
+           annually for professional development expenses, including 
+           conferences, training courses, and certifications, subject to 
+           prior approval.
+
+   3.2 Benefit Plan Terms. All benefits are subject to the terms and 
+       conditions of the applicable benefit plans and Company policies, 
+       which may be modified by Company from time to time in its sole 
+       discretion.
+
+
+4. INTELLECTUAL PROPERTY ASSIGNMENT
+
+   4.1 Work Product. Employee acknowledges and agrees that all inventions, 
+       discoveries, developments, improvements, works of authorship, 
+       software, code, designs, formulas, processes, techniques, know-how, 
+       data, trade secrets, and other intellectual property of any kind 
+       (collectively, "Work Product") that Employee conceives, develops, 
+       creates, or reduces to practice, either alone or jointly with 
+       others, during the term of employment shall be the sole and 
+       exclusive property of Company.
+
+   4.2 Scope of Assignment. Without limiting the generality of Section 
+       4.1, Employee hereby assigns to Company all right, title, and 
+       interest in and to all Work Product, including all patent rights, 
+       copyrights, trademark rights, trade secret rights, and other 
+       intellectual property rights therein. This assignment applies to 
+       all Work Product:
+
+       (a) That relates to Company's actual or anticipated business, 
+           research, or development;
+
+       (b) That results from any work performed by Employee for Company;
+
+       (c) That is developed using Company's equipment, supplies, 
+           facilities, time, or confidential information;
+
+       (d) That is developed during working hours or otherwise during the 
+           course of Employee's employment; or
+
+       (e) That relates to or is suggested by any work that Employee 
+           performs for Company.
+
+   4.3 Prior Inventions. Employee has disclosed to Company on Exhibit A 
+       attached hereto a complete list of all inventions, discoveries, and 
+       improvements that Employee made prior to employment with Company 
+       and that Employee desires to exclude from the scope of this 
+       Agreement (collectively, "Prior Inventions"). If no such list is 
+       attached, Employee represents that there are no such Prior 
+       Inventions. Any Prior Inventions shall remain the sole property of 
+       Employee.
+
+   4.4 Further Assurances. Employee agrees to execute and deliver such 
+       applications, assignments, and other documents, and to take such 
+       other actions, as Company may reasonably request to evidence, 
+       perfect, or defend Company's ownership of Work Product, including 
+       execution of patent applications, copyright registrations, and 
+       assignments.
+
+   4.5 Moral Rights. To the extent permitted by law, Employee hereby 
+       waives any moral rights, rights of attribution, or similar rights 
+       in any Work Product.
+
+
+5. NON-COMPETE AND NON-SOLICITATION
+
+   5.1 Non-Compete. During Employee's employment with Company and for a 
+       period of two (2) years following the termination of Employee's 
+       employment for any reason (the "Restricted Period"), Employee shall 
+       not, directly or indirectly, whether as an employee, consultant, 
+       independent contractor, owner, partner, officer, director, or 
+       otherwise:
+
+       (a) Engage in, provide services to, or have any financial interest 
+           in any business that competes with Company's business of 
+           providing financial technology software, payment processing 
+           systems, digital banking solutions, financial data analytics, 
+           or related financial services products (a "Competing Business");
+
+       (b) Work for or provide services to any company or entity that 
+           offers products or services that compete with any product or 
+           service offered by Company or under development by Company 
+           during Employee's employment.
+
+   5.2 Geographic Scope. The non-compete restrictions in Section 5.1 shall 
+       apply to: (a) the United States of America; (b) any country in 
+       which Company conducts business or has customers at the time of 
+       Employee's termination; and (c) any country in which Company has 
+       taken demonstrable steps to conduct business.
+
+   5.3 Non-Solicitation of Employees. During the Restricted Period, 
+       Employee shall not, directly or indirectly, solicit, recruit, hire, 
+       or encourage any employee or independent contractor of Company to 
+       leave their employment or engagement with Company or to accept 
+       employment or engagement with any other person or entity.
+
+   5.4 Non-Solicitation of Customers. During the Restricted Period, 
+       Employee shall not, directly or indirectly, solicit, contact, or 
+       accept business from any customer, client, or prospective customer 
+       or client of Company with whom Employee had contact or about whom 
+       Employee obtained confidential information during Employee's 
+       employment for the purpose of providing products or services that 
+       compete with Company's products or services.
+
+   5.5 Reasonableness. Employee acknowledges and agrees that the 
+       restrictions contained in this Section 5 are reasonable and 
+       necessary to protect Company's legitimate business interests, 
+       including its confidential information, customer relationships, and 
+       goodwill, and that such restrictions do not impose an undue burden 
+       on Employee.
+
+
+6. CONFIDENTIALITY
+
+   6.1 Confidential Information. Employee acknowledges that during the 
+       course of employment, Employee will have access to and learn about 
+       confidential, secret, and proprietary information of Company, 
+       including but not limited to:
+
+       (a) Technical information, such as software, source code, 
+           algorithms, architectures, data structures, system designs, 
+           development tools, and technical specifications;
+
+       (b) Business information, such as business plans, strategies, 
+           financial information, pricing, costs, customer lists, supplier 
+           lists, marketing plans, and sales data;
+
+       (c) Product information, such as product roadmaps, features under 
+           development, and product specifications;
+
+       (d) Personnel information, such as employee compensation, 
+           performance reviews, and hiring plans;
+
+       (e) Any other information that Company treats as confidential or 
+           that a reasonable person would understand to be confidential 
+           given the nature of the information and circumstances of 
+           disclosure.
+
+       All such information is collectively referred to as "Confidential 
+       Information."
+
+   6.2 Non-Disclosure. Employee agrees not to disclose any Confidential 
+       Information to any person or entity, except as required to perform 
+       Employee's duties for Company or as authorized in writing by 
+       Company. Employee agrees to use Confidential Information only for 
+       the benefit of Company and not for Employee's own benefit or the 
+       benefit of any third party.
+
+   6.3 Protection of Confidential Information. Employee agrees to take all 
+       reasonable steps to protect Confidential Information and to prevent 
+       its unauthorized disclosure or use. Employee shall immediately 
+       notify Company of any unauthorized disclosure or use of 
+       Confidential Information of which Employee becomes aware.
+
+   6.4 Survival. Employee's obligations under this Section 6 shall survive 
+       the termination of Employee's employment and shall continue 
+       indefinitely, or until such time as the Confidential Information 
+       becomes publicly available through no breach of this Agreement by 
+       Employee.
+
+   6.5 Exceptions. The obligations set forth in this Section 6 shall not 
+       apply to information that: (a) is or becomes publicly available 
+       through no breach of this Agreement by Employee; (b) was rightfully 
+       in Employee's possession prior to disclosure by Company; (c) is 
+       rightfully received by Employee from a third party without breach 
+       of any confidentiality obligation; or (d) is independently 
+       developed by Employee without use of Confidential Information.
+
+   6.6 Defend Trade Secrets Act Notice. Pursuant to the Defend Trade 
+       Secrets Act of 2016, Employee is notified that: (a) an individual 
+       shall not be held criminally or civilly liable under any federal or 
+       state trade secret law for the disclosure of a trade secret that is 
+       made in confidence to a federal, state, or local government 
+       official or to an attorney solely for the purpose of reporting or 
+       investigating a suspected violation of law; (b) an individual who 
+       files a lawsuit for retaliation by an employer for reporting a 
+       suspected violation of law may disclose the trade secret to the 
+       attorney of the individual and use the trade secret information in 
+       the court proceeding, if the individual files any document 
+       containing the trade secret under seal and does not disclose the 
+       trade secret except pursuant to court order.
+
+
+7. TERMINATION
+
+   7.1 Termination Notice. Either party may terminate Employee's 
+       employment at any time for any reason or no reason. However, if 
+       either party chooses to terminate the employment relationship 
+       (other than for Cause as defined below), such party shall provide 
+       the other party with at least two (2) weeks' advance written 
+       notice.
+
+   7.2 Termination for Cause. Notwithstanding Section 7.1, Company may 
+       terminate Employee's employment immediately for Cause without 
+       notice or payment in lieu of notice. "Cause" means:
+
+       (a) Employee's material breach of this Agreement;
+
+       (b) Employee's willful misconduct, gross negligence, or dishonesty;
+
+       (c) Employee's conviction of, or plea of guilty or no contest to, 
+           any felony or crime involving moral turpitude;
+
+       (d) Employee's material violation of Company policies or procedures;
+
+       (e) Employee's unauthorized use or disclosure of Confidential 
+           Information;
+
+       (f) Employee's failure to perform assigned duties after written 
+           warning and reasonable opportunity to cure; or
+
+       (g) Any other conduct that is materially harmful to Company's 
+           business, reputation, or interests.
+
+   7.3 Compensation Upon Termination. Upon termination of employment for 
+       any reason:
+
+       (a) Company shall pay Employee all earned but unpaid salary through 
+           the date of termination;
+
+       (b) Company shall pay Employee for all accrued but unused PTO in 
+           accordance with Company policy and applicable law;
+
+       (c) All other benefits shall cease as of the termination date, 
+           except as required by law or the terms of the applicable 
+           benefit plans;
+
+       (d) Any unvested equity compensation shall be forfeited;
+
+       (e) Employee shall have the right to exercise vested stock options 
+           in accordance with the terms of the applicable stock option 
+           agreement.
+
+   7.4 Return of Company Property. Upon termination, Employee shall 
+       immediately return to Company all Company property, including 
+       without limitation: computers, mobile devices, keys, access cards, 
+       documents, files, equipment, and any other property belonging to 
+       Company. Employee shall also permanently delete or destroy all 
+       Confidential Information in Employee's possession and certify such 
+       deletion or destruction in writing to Company.
+
+   7.5 Survival. The provisions of Sections 4 (Intellectual Property 
+       Assignment), 5 (Non-Compete and Non-Solicitation), 6 
+       (Confidentiality), 8 (General Provisions), and any other provisions 
+       that by their nature should survive termination shall survive the 
+       termination of this Agreement and Employee's employment.
+
+
+8. GENERAL PROVISIONS
+
+   8.1 Entire Agreement. This Agreement, including any exhibits attached 
+       hereto, constitutes the entire agreement between the parties 
+       regarding Employee's employment and supersedes all prior 
+       negotiations, agreements, understandings, and communications, 
+       whether written or oral.
+
+   8.2 Amendments. No amendment or modification of this Agreement shall be 
+       effective unless in writing and signed by both parties.
+
+   8.3 Governing Law. This Agreement shall be governed by and construed in 
+       accordance with the laws of the State of Texas, without regard to 
+       its conflict of laws principles.
+
+   8.4 Jurisdiction and Venue. The parties hereby consent to the exclusive 
+       jurisdiction and venue of the state and federal courts located in 
+       Travis County, Texas for any disputes arising under or relating to 
+       this Agreement.
+
+   8.5 Severability. If any provision of this Agreement is held to be 
+       invalid, illegal, or unenforceable, the remaining provisions shall 
+       remain in full force and effect. If any restriction in Section 5 is 
+       held to be unreasonable or unenforceable, the court is requested 
+       and authorized to modify the restriction to make it reasonable and 
+       enforceable.
+
+   8.6 Waiver. No waiver of any provision of this Agreement shall be 
+       effective unless in writing and signed by the party against whom 
+       such waiver is sought to be enforced.
+
+   8.7 Assignment. Employee may not assign this Agreement. Company may 
+       assign this Agreement to any successor or affiliate without 
+       Employee's consent.
+
+   8.8 Notices. All notices under this Agreement shall be in writing and 
+       shall be deemed delivered when delivered personally, sent by 
+       confirmed electronic mail, or three (3) business days after being 
+       sent by certified mail, return receipt requested.
+
+   8.9 Counterparts. This Agreement may be executed in counterparts, each 
+       of which shall be deemed an original and all of which together 
+       shall constitute one and the same instrument.
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the 
+date first written above.
+
+
+FINTECH SOLUTIONS INC.
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________
+
+
+
+EMPLOYEE:
+
+
+_________________________________
+Jane Doe
+
+Date: _________________________________
+
+
+EXHIBIT A
+
+PRIOR INVENTIONS
+
+[None / List any prior inventions here]

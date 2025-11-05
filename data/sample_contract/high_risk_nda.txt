@@ -1,0 +1,234 @@
+                  NON-DISCLOSURE AGREEMENT
+
+
+This Non-Disclosure Agreement (the "Agreement") is entered into as of 
+the 22nd day of April, 2024 (the "Effective Date"), by and between:
+
+     BioTech Innovations, a Delaware corporation with its principal place 
+     of business at 200 Research Park Drive, San Diego, CA 92121 
+     (hereinafter referred to as "Disclosing Party"),
+
+and
+
+     PharmaCorp, a Delaware corporation with its principal place of 
+     business at 1000 Pharmaceutical Plaza, New York, NY 10019 
+     (hereinafter referred to as "Receiving Party").
+
+
+                              RECITALS
+
+WHEREAS, Disclosing Party possesses certain proprietary and confidential 
+information relating to its biotechnology research, development projects, 
+and business operations; and
+
+WHEREAS, Receiving Party desires to receive and evaluate such confidential 
+information for the purpose of exploring a potential business relationship 
+between the parties (the "Purpose"); and
+
+WHEREAS, Disclosing Party is willing to disclose such confidential 
+information to Receiving Party subject to the terms and conditions set 
+forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants 
+contained herein, the parties agree as follows:
+
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+   1.1 "Confidential Information" means any and all information, data, 
+       materials, documents, or knowledge, whether written, oral, 
+       electronic, visual, or in any other form, disclosed by Disclosing 
+       Party to Receiving Party, including but not limited to:
+
+       (a) Scientific, technical, and research information, including 
+           research protocols, methodologies, experimental data, test 
+           results, formulas, compounds, compositions, processes, 
+           procedures, techniques, know-how, and discoveries;
+
+       (b) Product information, including product specifications, designs, 
+           plans, prototypes, samples, models, and manufacturing 
+           processes;
+
+       (c) Business information, including business plans, strategies, 
+           financial information, pricing, cost data, sales data, customer 
+           lists, supplier lists, marketing plans, and forecasts;
+
+       (d) Intellectual property, including patents, patent applications, 
+           inventions, trade secrets, copyrights, trademarks, and 
+           proprietary rights;
+
+       (e) Personnel information, including employee lists, compensation 
+           information, and organizational structures;
+
+       (f) Any other information that Disclosing Party designates as 
+           confidential or that, given the nature of the information or 
+           circumstances surrounding disclosure, reasonably should be 
+           understood to be confidential;
+
+       (g) All analyses, compilations, studies, reports, summaries, or 
+           other materials prepared by Receiving Party that contain, 
+           reflect, or are based upon any of the foregoing.
+
+
+2. CONFIDENTIALITY OBLIGATIONS
+
+   2.1 Protection of Confidential Information. Receiving Party agrees to 
+       hold all Confidential Information in strict confidence and to use 
+       reasonable efforts to protect such Confidential Information from 
+       unauthorized disclosure or use.
+
+   2.2 Permitted Use. Receiving Party may use Confidential Information 
+       solely for the Purpose and for no other purpose whatsoever without 
+       the prior written consent of Disclosing Party.
+
+   2.3 Disclosure Limitations. Receiving Party shall not disclose any 
+       Confidential Information to any third party, except that Receiving 
+       Party may disclose Confidential Information to its employees, 
+       affiliates, consultants, advisors, and representatives who have a 
+       legitimate need to know such information for the Purpose and who 
+       are bound by confidentiality obligations.
+
+   2.4 Standard of Care. Receiving Party shall exercise at least the same 
+       degree of care in protecting Confidential Information as it 
+       exercises in protecting its own confidential information, but in no 
+       event less than reasonable care.
+
+
+3. EXCEPTIONS
+
+   3.1 The obligations set forth in Section 2 shall not apply to any 
+       Confidential Information that:
+
+       (a) Was known to Receiving Party prior to disclosure by Disclosing 
+           Party, as evidenced by written records;
+
+       (b) Is or becomes publicly available through no breach of this 
+           Agreement by Receiving Party;
+
+       (c) Is rightfully received by Receiving Party from a third party 
+           without breach of any confidentiality obligation;
+
+       (d) Is independently developed by Receiving Party without use of or 
+           reference to Confidential Information, as evidenced by written 
+           records;
+
+       (e) Is required to be disclosed by law, regulation, court order, or 
+           other legal process, provided that Receiving Party provides 
+           Disclosing Party with prompt written notice of such requirement 
+           to permit Disclosing Party to seek a protective order or other 
+           appropriate remedy.
+
+
+4. TERM
+
+   4.1 This Agreement shall commence on the Effective Date and shall 
+       continue for a period of twelve (12) months, unless earlier 
+       terminated by either party upon thirty (30) days' written notice to 
+       the other party.
+
+   4.2 The confidentiality obligations set forth in Section 2 shall 
+       survive termination of this Agreement for a period of one (1) year 
+       from the date of termination.
+
+
+5. NO LICENSE OR TRANSFER OF RIGHTS
+
+   5.1 Nothing in this Agreement grants to Receiving Party any license, 
+       right, title, or interest in or to any Confidential Information, 
+       patents, copyrights, trademarks, trade secrets, or other 
+       intellectual property rights of Disclosing Party.
+
+   5.2 All Confidential Information remains the sole property of 
+       Disclosing Party.
+
+
+6. NO WARRANTY
+
+   6.1 ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS" WITHOUT ANY 
+       WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. DISCLOSING PARTY MAKES 
+       NO REPRESENTATION OR WARRANTY REGARDING THE ACCURACY, COMPLETENESS, 
+       OR UTILITY OF ANY CONFIDENTIAL INFORMATION.
+
+
+7. REMEDIES
+
+   7.1 Receiving Party acknowledges that any unauthorized disclosure or 
+       use of Confidential Information may cause irreparable harm and 
+       significant injury to Disclosing Party, the extent of which may be 
+       difficult to ascertain. Accordingly, Receiving Party agrees that 
+       Disclosing Party shall have the right to seek immediate injunctive 
+       relief and other equitable remedies to prevent or restrain any 
+       breach or threatened breach of this Agreement, in addition to any 
+       other rights and remedies available at law or in equity.
+
+   7.2 Receiving Party shall be liable for any breach of this Agreement by 
+       its employees, affiliates, consultants, advisors, or 
+       representatives.
+
+
+8. GENERAL PROVISIONS
+
+   8.1 Entire Agreement. This Agreement constitutes the entire agreement 
+       between the parties regarding the subject matter hereof and 
+       supersedes all prior agreements, understandings, and communications, 
+       whether written or oral.
+
+   8.2 Amendments. No amendment or modification of this Agreement shall be 
+       effective unless in writing and signed by both parties.
+
+   8.3 Waiver. No waiver of any provision of this Agreement shall be 
+       effective unless in writing and signed by the party against whom 
+       such waiver is sought to be enforced. No waiver shall constitute a 
+       waiver of any other provision or of the same provision on another 
+       occasion.
+
+   8.4 Severability. If any provision of this Agreement is held to be 
+       invalid or unenforceable, the remaining provisions shall remain in 
+       full force and effect.
+
+   8.5 Assignment. Receiving Party may not assign this Agreement without 
+       the prior written consent of Disclosing Party. This Agreement shall 
+       be binding upon and inure to the benefit of the parties and their 
+       respective successors and permitted assigns.
+
+   8.6 Notices. All notices under this Agreement shall be in writing and 
+       shall be deemed delivered when delivered personally, sent by 
+       confirmed facsimile or electronic mail, or three (3) business days 
+       after being sent by certified mail, return receipt requested.
+
+   8.7 Counterparts. This Agreement may be executed in counterparts, each 
+       of which shall be deemed an original and all of which together 
+       shall constitute one and the same instrument.
+
+   8.8 Independent Contractors. Nothing in this Agreement creates any 
+       partnership, joint venture, agency, or employment relationship 
+       between the parties.
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the 
+date first written above.
+
+
+BIOTECH INNOVATIONS
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________
+
+
+
+PHARMACORP
+
+
+By: _________________________________
+
+Name: _________________________________
+
+Title: _________________________________
+
+Date: _________________________________

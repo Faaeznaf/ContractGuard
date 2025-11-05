@@ -1,0 +1,62 @@
+┌─────────────────────────────────────────────────────────────┐
+│                         USER BROWSER                         │
+│                    (React + Tailwind CSS)                    │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     │ HTTPS
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│                      API GATEWAY (REST)                      │
+│           https://[api-id].execute-api.us-east-1...          │
+│                                                               │
+│  Endpoints:                                                   │
+│    POST /upload-url    - Get pre-signed S3 URL              │
+│    POST /analyze       - Trigger contract analysis           │
+│    GET  /analysis/{id} - Retrieve analysis results          │
+└──────┬──────────────────┬──────────────────┬────────────────┘
+       │                  │                  │
+       │                  │                  │
+       ▼                  ▼                  ▼
+┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+│   LAMBDA 1   │  │   LAMBDA 2   │  │   LAMBDA 3   │
+│              │  │              │  │              │
+│  Generate    │  │  Analyze     │  │  Get         │
+│  Upload URL  │  │  Contract    │  │  Analysis    │
+│              │  │              │  │              │
+│  Python 3.11 │  │  Python 3.11 │  │  Python 3.11 │
+│  256MB/30s   │  │  1024MB/300s │  │  256MB/30s   │
+└──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+       │                 │                  │
+       │                 │                  │
+       ▼                 ▼                  ▼
+┌────────────────┐ ┌──────────────┐ ┌──────────────┐
+│       S3       │ │  BEDROCK AI  │ │   DYNAMODB   │
+│                │ │              │ │              │
+│  Contracts     │ │  Claude      │ │  Analysis    │
+│  Storage       │ │  Sonnet 4.5  │ │  Results     │
+│                │ │              │ │              │
+│  Bucket:       │ │  Model:      │ │  Table:      │
+│  contractguard-│ │  us.anthro   │ │  Contract    │
+│  uploads-*     │ │  pic.claude  │ │  Analyses    │
+│                │ │  -sonnet-4-5 │ │              │
+└────────────────┘ └──────────────┘ └──────────────┘
+
+DATA FLOW:
+─────────
+1. User uploads contract via drag-and-drop interface
+2. Frontend calls POST /upload-url → Lambda 1 generates pre-signed S3 URL
+3. Frontend uploads contract directly to S3 using pre-signed URL
+4. Frontend calls POST /analyze with contractId and s3Key
+5. Lambda 2 retrieves contract from S3, sends to Bedrock for analysis
+6. Bedrock (Claude) analyzes contract against playbook, returns JSON
+7. Lambda 2 stores results in DynamoDB
+8. Frontend polls GET /analysis/{id} → Lambda 3 retrieves from DynamoDB
+9. Results displayed to user with risk score and recommendations
+
+SECURITY:
+─────────
+- IAM roles with least-privilege access
+- S3 pre-signed URLs (5-minute expiration)
+- CORS enabled on API Gateway and S3
+- All data encrypted at rest (S3, DynamoDB)
+- TLS/HTTPS encryption in transit

@@ -1,0 +1,76 @@
+{
+  "company_name": "TechCorp Inc",
+  "industry": "SaaS",
+  "rules": [
+    {
+      "id": 1,
+      "category": "liability",
+      "rule": "Liability cap must not exceed $2,000,000",
+      "severity": "critical",
+      "rationale": "Protects company from unlimited financial exposure"
+    },
+    {
+      "id": 2,
+      "category": "termination",
+      "rule": "Termination notice period must be 90 days or less",
+      "severity": "high",
+      "rationale": "Maintains flexibility to exit unfavorable agreements"
+    },
+    {
+      "id": 3,
+      "category": "payment",
+      "rule": "Payment terms should be Net 30-45 days",
+      "severity": "medium",
+      "rationale": "Standard payment terms for cash flow management"
+    },
+    {
+      "id": 4,
+      "category": "intellectual_property",
+      "rule": "Company must own all work product and deliverables",
+      "severity": "critical",
+      "rationale": "Essential for protecting proprietary technology"
+    },
+    {
+      "id": 5,
+      "category": "confidentiality",
+      "rule": "Confidentiality obligations must survive contract termination for at least 3 years",
+      "severity": "high",
+      "rationale": "Long-term protection of trade secrets"
+    },
+    {
+      "id": 6,
+      "category": "indemnification",
+      "rule": "Mutual indemnification preferred; if one-sided, must include cap",
+      "severity": "high",
+      "rationale": "Balance risk between parties"
+    },
+    {
+      "id": 7,
+      "category": "data_privacy",
+      "rule": "Must comply with GDPR/CCPA standards if handling customer data",
+      "severity": "critical",
+      "rationale": "Regulatory compliance requirement"
+    },
+    {
+      "id": 8,
+      "category": "auto_renewal",
+      "rule": "Auto-renewal clauses must require 60+ days notice to cancel",
+      "severity": "medium",
+      "rationale": "Prevents surprise renewals"
+    },
+    {
+      "id": 9,
+      "category": "governing_law",
+      "rule": "Governing law should be in company's jurisdiction when possible",
+      "severity": "low",
+      "rationale": "Reduces legal costs in disputes"
+    },
+    {
+      "id": 10,
+      "category": "force_majeure",
+      "rule": "Must include force majeure clause",
+      "severity": "medium",
+      "rationale": "Protection from unforeseeable events"
+    }
+  ]
+}
